@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|d:\\comp1551_final pj\\windowsformsapp_cw\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\playerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:playerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|D:\\COMP1551_final pj\\WindowsFormsApp_CW\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17D338D-FACF-45D5-B310-C5953D24B514}|WindowsFormsApp_CW.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerForm.cs",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.cs",
+              "RelativeDocumentMoniker": "PlayerForm.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.cs",
+              "RelativeToolTip": "PlayerForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:46:10.514Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameForm.Designer.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.Designer.cs",
+              "RelativeToolTip": "GameForm.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAASwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:27:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.cs",
+              "RelativeToolTip": "GameForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA7wEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:02:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\GameForm.cs [Design]",
+              "RelativeToolTip": "GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:02:21.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerForm.Designer.cs",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.Designer.cs",
+              "RelativeDocumentMoniker": "PlayerForm.Designer.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.Designer.cs",
+              "RelativeToolTip": "PlayerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:51:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerForm.cs [Design]",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.cs",
+              "RelativeDocumentMoniker": "PlayerForm.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\PlayerForm.cs [Design]",
+              "RelativeToolTip": "PlayerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:39:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:02:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\COMP1551_final pj\\WindowsFormsApp_CW\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:53:52.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
